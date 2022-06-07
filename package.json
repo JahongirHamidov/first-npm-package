@@ -14,6 +14,15 @@
     "type": "git",
     "url": "git+https://github.com/JahongirHamidov/first-npm-package.git"
   },
+  "keywords": [
+    "package",
+    "data rendering",
+    "data",
+    "rendering",
+    "data-rendering",
+    "users",
+    "javascript package"
+  ],
   "author": "Jakhongir Hamidov",
   "license": "ISC",
   "bugs": {
