@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "name": "data-rendering",
+  "version": "1.0.0",
+  "description": "data rendering package",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JahongirHamidov/first-npm-package.git"
+  },
+  "author": "Jakhongir Hamidov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JahongirHamidov/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/JahongirHamidov/first-npm-package#readme"
+}
